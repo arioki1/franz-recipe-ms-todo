@@ -1,0 +1,13 @@
+{
+  "id": "mstodo",
+  "name": "Microsoft Todo",
+  "version": "1.0.0",
+  "description": "Microsoft Todo",
+  "main": "index.js",
+  "author": "Sujith Gokuladas",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://todo.microsoft.com",
+    "hasNotificationSound": true
+  }
+}
