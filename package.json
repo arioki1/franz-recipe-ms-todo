@@ -1,8 +1,8 @@
 {
   "id": "mstodo",
-  "name": "Microsoft Todo",
+  "name": "Microsoft To-do",
   "version": "1.0.0",
-  "description": "Microsoft Todo",
+  "description": "Microsoft To-do",
   "main": "index.js",
   "author": "Sujith Gokuladas",
   "license": "MIT",
